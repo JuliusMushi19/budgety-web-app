@@ -32,7 +32,7 @@ Features ready:
 * Adding a new item to UI
 
 To-do list:
-* Deleting an existing item from UI
+* None
 
 ## Status
 Project is: _finished_
