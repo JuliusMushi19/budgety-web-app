@@ -35,7 +35,7 @@ To-do list:
 * Deleting an existing item from UI
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Inspiration
 Project based on online course I took with Udemy.
