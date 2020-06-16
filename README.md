@@ -1,5 +1,5 @@
 # Budgety Web App
-> A budget calculator web app.
+> A budget calculator web application.
 
 ## Table of contents
 * [General info](#general-info)
@@ -25,7 +25,7 @@ The goal of this project is to show my portifolio to the world.
 
 
 ## Setup
-Since it was a simple app, there was not much setup required.
+Since it was a simple application, there was not much setup required.
 
 ## Features
 Features ready:
